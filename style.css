@@ -1,8 +1,7 @@
 body {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
-	background-color: #121212; /* Dark background like a Marvel movie intro */
-	color: #E0E0E0; /* Light gray text for readability on dark background */
-}
+	font-family: 'Impact', Arial, sans-serif;
+	background-color: #121212; 
+	color: #E0E0E0; 
 
 #footer {
 	height: 30px;
@@ -10,10 +9,10 @@ body {
 	text-align: right;
 	clear: both;
 	padding-right: 3px;
-	background-color: #d32f2f; /* Marvel red */
+	background-color: #d32f2f; 
 	margin-top: 2px;
 	width: 790px;
-	color: #FFFFFF; /* White text for contrast */
+	color: #FFFFFF; 
 }
 
 #footer form {
@@ -24,8 +23,8 @@ body {
 #dhtmlgoodies_dragDropContainer {
 	width: 790px;
 	height: 770px;
-	border: 1px solid #d32f2f; /* Border in Marvel red */
-	background-color: #202020; /* Slightly lighter dark for depth */
+	border: 1px solid #d32f2f; 
+	background-color: #202020; 
 	-moz-user-select: none;
 	color: #E0E0E0;
 }
@@ -38,7 +37,7 @@ body {
 #dhtmlgoodies_dragDropContainer li, #dragContent li, li#indicateDestination {
 	list-style-type: none;
 	height: 15px;
-	background-color: #424242; /* Dark gray for card backgrounds */
+	background-color: #424242; 
 	border: 1px solid #616161;
 	padding: 2px;
 	margin-bottom: 2px;
@@ -49,17 +48,17 @@ body {
 }
 
 li#indicateDestination {
-	border: 1px dotted #d32f2f; /* Dotted red line for visual cue */
+	border: 1px dotted #d32f2f; 
 	background-color: #121212;
 }
 
 #dhtmlgoodies_dragDropContainer ul li.correctAnswer {
-	background-color: #388e3c; /* Green for correct answer */
+	background-color: #388e3c; 
 	color: #FFFFFF;
 }
 
 #dhtmlgoodies_dragDropContainer ul li.wrongAnswer {
-	background-color: #c62828; /* Red for wrong answer */
+	background-color: #c62828; 
 	color: #FFFFFF;
 }
 
@@ -87,7 +86,7 @@ div#dhtmlgoodies_listOfItems div ul {
 	margin: 0;
 	font-weight: bold;
 	padding-left: 12px;
-	background-color: #d32f2f; /* Marvel red header */
+	background-color: #d32f2f; 
 	color: #FFFFFF;
 	margin-bottom: 5px;
 }
@@ -119,7 +118,7 @@ div#dhtmlgoodies_mainContainer {
 	margin: 0;
 	padding: 0 0 0 12px;
 	font-weight: bold;
-	background-color: #d32f2f; /* Marvel red header */
+	background-color: #d32f2f; 
 	color: #FFFFFF;
 	margin-bottom: 5px;
 }
@@ -154,5 +153,4 @@ div#dhtmlgoodies_mainContainer {
 }
 
 .style1 {
-	color: #FF0000; /* Extra color for emphasis, matching Marvel theme */
-}
+	color: #FF0000;
